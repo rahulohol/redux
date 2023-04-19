@@ -1,0 +1,24 @@
+{
+  "Todos": [
+    {
+      "id": 1,
+      "title": "Learn Redux",
+      "status": false
+    },
+    {
+      "title": "hello",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "hello2",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "mehfooz",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
