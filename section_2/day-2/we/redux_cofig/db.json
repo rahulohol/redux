@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "hello",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "mehfooz",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "developer ",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "rfsf",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Rahul",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "test",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "gdff",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
