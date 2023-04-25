@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Redux",
+      "author": false
+    },
+    {
+      "title": "learn javascript",
+      "state": false,
+      "id": 2
+    },
+    {
+      "title": "mongo db",
+      "state": false,
+      "id": 3
+    },
+    {
+      "title": "learn node js",
+      "state": false,
+      "id": 4
+    },
+    {
+      "title": "leran express js ",
+      "state": false,
+      "id": 5
+    },
+    {
+      "title": "hello",
+      "state": false,
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "state": false,
+      "id": 7
+    },
+    {
+      "title": "here",
+      "state": false,
+      "id": 8
+    },
+    {
+      "title": "here we go ",
+      "state": false,
+      "id": 9
+    },
+    {
+      "title": "hey",
+      "state": false,
+      "id": 10
+    },
+    {
+      "title": "thunk install true ",
+      "state": false,
+      "id": 11
+    }
+  ]
+}
