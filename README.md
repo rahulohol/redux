@@ -1,2 +1,2 @@
 # redux
-It is decided in 4 sections
+It is decided in 4 sections.
